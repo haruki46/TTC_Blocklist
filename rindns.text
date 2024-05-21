@@ -13,10 +13,14 @@
 #   Source: github.com/haruki46/TTC_Blocklist                           #
 #########################################################################
 
+#Raw Githun
+https://raw.githubusercontent.com/ttc-cert/TTC-CERT_blocklist_recommended/master/domain_blocklist_recommended.txt
+https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist
+
 #Domain
 ufafat1.com
 ufanance2.com
-www.juad888d.com
+juad888d.com
 lockdown168c.com
 lotto77.in
 kingdom66c.com
@@ -27,3 +31,4 @@ lotto432.tv
 bwcoa.com
 pp9vip.com
 baccarat888th.com
+
